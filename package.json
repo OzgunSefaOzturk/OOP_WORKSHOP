@@ -1,0 +1,13 @@
+{
+  "name": "oop_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "type": "module",
+  "scripts": {
+    "start": "node homePage.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
